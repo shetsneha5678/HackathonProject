@@ -1,0 +1,60 @@
+10:15:27.268 [main] INFO  testcases.TC001_Upcomingbikes - clicking on  Used Cars and selecting Chennai
+10:15:37.345 [main] INFO  testcases.TC001_Upcomingbikes - Failed to click used cars!!!
+10:15:37.805 [main] INFO  testcases.TC001_Upcomingbikes - **** Starting TC_003_LoginSignup ****
+10:15:37.805 [main] INFO  testcases.TC001_Upcomingbikes - Verifying login/SignUp
+10:15:47.854 [main] INFO  testcases.TC001_Upcomingbikes - Verifying login/SignUp failed!!
+18:50:33.686 [main] INFO  testcases.TC001_Upcomingbikes - **** Starting TC_002_UsedCar ****
+18:50:33.697 [main] INFO  testcases.TC001_Upcomingbikes - clicking on  Used Cars and selecting Chennai
+18:50:41.701 [main] INFO  testcases.TC001_Upcomingbikes - **** Finished TC_002_UsedCar ****
+18:50:42.107 [main] INFO  testcases.TC001_Upcomingbikes - **** Starting TC_003_LoginSignup ****
+18:50:42.107 [main] INFO  testcases.TC001_Upcomingbikes - Verifying login/SignUp
+18:50:58.843 [main] INFO  testcases.TC001_Upcomingbikes - Verifying loginPage
+18:51:14.658 [main] INFO  testcases.TC001_Upcomingbikes - **** Finished TC_003_LoginSignup ****
+18:51:31.838 [main] INFO  testcases.TC001_Upcomingbikes - **** Starting TC_002_UsedCar ****
+18:51:31.838 [main] INFO  testcases.TC001_Upcomingbikes - clicking on  Used Cars and selecting Chennai
+18:51:39.307 [main] INFO  testcases.TC001_Upcomingbikes - **** Finished TC_002_UsedCar ****
+18:51:39.619 [main] INFO  testcases.TC001_Upcomingbikes - **** Starting TC_003_LoginSignup ****
+18:51:39.619 [main] INFO  testcases.TC001_Upcomingbikes - Verifying login/SignUp
+18:51:57.226 [main] INFO  testcases.TC001_Upcomingbikes - Verifying loginPage
+18:52:13.420 [main] INFO  testcases.TC001_Upcomingbikes - **** Finished TC_003_LoginSignup ****
+19:08:09.184 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+19:08:09.599 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+19:08:09.996 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+19:08:13.450 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+19:08:13.769 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+19:08:14.768 [main] INFO  factory.BaseClass - **Checking for dropdown**
+19:08:14.915 [main] INFO  factory.BaseClass - **Clicking honda option**
+19:08:15.722 [main] INFO  factory.BaseClass - **Checking for read more options**
+19:09:35.023 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+19:09:35.505 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+19:09:35.904 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+19:09:39.356 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+19:09:39.661 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+19:09:40.670 [main] INFO  factory.BaseClass - **Checking for dropdown**
+19:09:40.841 [main] INFO  factory.BaseClass - **Clicking honda option**
+19:09:41.651 [main] INFO  factory.BaseClass - **Checking for read more options**
+19:10:42.562 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+19:10:42.970 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+19:10:43.378 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+19:10:46.825 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+19:10:47.179 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+19:10:48.205 [main] INFO  factory.BaseClass - **Checking for dropdown**
+19:10:48.376 [main] INFO  factory.BaseClass - **Clicking honda option**
+19:10:49.177 [main] INFO  factory.BaseClass - **Checking for read more options**
+19:11:47.567 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+19:11:47.995 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+19:11:48.470 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+19:11:51.930 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+19:11:52.283 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+19:11:53.288 [main] INFO  factory.BaseClass - **Checking for dropdown**
+19:11:53.449 [main] INFO  factory.BaseClass - **Clicking honda option**
+19:11:54.409 [main] INFO  factory.BaseClass - **Checking for read more options**
+19:11:54.594 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+19:11:54.742 [main] INFO  factory.BaseClass - **Printing bike details in console**
+19:15:06.822 [main] INFO  factory.BaseClass - **Statring the login Test Case**
+19:15:08.705 [main] INFO  factory.BaseClass - **Clicking Login Button**
+19:15:15.197 [main] INFO  factory.BaseClass - **Clicking the google Button**
+19:15:23.596 [main] INFO  factory.BaseClass - **Giving Email Input**
+19:15:23.831 [main] INFO  factory.BaseClass - **Clicking next Button**
+19:15:29.228 [main] INFO  factory.BaseClass - **Capturing the error message**
+19:17:16.393 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
